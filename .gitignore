@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data_raw
+lda_test.tiff
+pc1_boxplot.tiff
+pc1_pc2.tiff
+scree.png
+ggally.png
